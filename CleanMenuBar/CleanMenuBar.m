@@ -16,7 +16,10 @@
             @"com.todoist.mac.Todoist",
             @"com.knock.mac",
             @"net.matthewpalmer.Rocket",
-            @"com.lastpass.LastPass"
+            @"com.lastpass.LastPass",
+            @"com.prosofteng.DriveGenius2",
+            @"com.prosofteng.DriveGenius2.DrivePulse",
+            @"com.google.GoogleDrive"
     ];
     
     NSString *appID = [[NSBundle mainBundle] bundleIdentifier];

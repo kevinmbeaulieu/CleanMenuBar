@@ -1,5 +1,7 @@
 # CleanMenuBar
 
+![preview](preview.png)
+
 # Information:
 
 - Tested on 10.12
