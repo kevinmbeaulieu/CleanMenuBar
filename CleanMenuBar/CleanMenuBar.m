@@ -21,7 +21,6 @@
     
     NSString *appID = [[NSBundle mainBundle] bundleIdentifier];
     if ([appsToHide containsObject:appID]) {
-        NSLog(@"Will hide");
         [self hideFromStatusBar];
     }
 }

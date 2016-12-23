@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		B0C979351E0C798500EECDD4 /* CleanMenuBar.m in Sources */ = {isa = PBXBuildFile; fileRef = B0C979341E0C798500EECDD4 /* CleanMenuBar.m */; };
-		B0ECEAFC1E0C81FB0029B286 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B0ECEAFB1E0C81FB0029B286 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -16,7 +15,6 @@
 		B0C9792D1E0C796800EECDD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B0C979331E0C798500EECDD4 /* CleanMenuBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CleanMenuBar.h; sourceTree = "<group>"; };
 		B0C979341E0C798500EECDD4 /* CleanMenuBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CleanMenuBar.m; sourceTree = "<group>"; };
-		B0ECEAFB1E0C81FB0029B286 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,7 +47,6 @@
 		B0C9792C1E0C796800EECDD4 /* CleanMenuBar */ = {
 			isa = PBXGroup;
 			children = (
-				B0ECEAFB1E0C81FB0029B286 /* icon.png */,
 				B0C9792D1E0C796800EECDD4 /* Info.plist */,
 				B0C979331E0C798500EECDD4 /* CleanMenuBar.h */,
 				B0C979341E0C798500EECDD4 /* CleanMenuBar.m */,
@@ -114,7 +111,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B0ECEAFC1E0C81FB0029B286 /* icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
